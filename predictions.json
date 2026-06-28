@@ -74,6 +74,43 @@
         "SF_M2": "Argentina",
         "FINAL": "France"
       }
+    },
+    {
+      "name": "Comrade Pushkar",
+      "submittedAt": "2026-06-28T10:20:24.707Z",
+      "picks": {
+        "R32_M1": "Germany",
+        "R32_M2": "France",
+        "R32_M3": "Canada",
+        "R32_M4": "Morocco",
+        "R32_M5": "Portugal",
+        "R32_M6": "Spain",
+        "R32_M7": "USA",
+        "R32_M8": "Senegal",
+        "R32_M9": "Brazil",
+        "R32_M10": "Norway",
+        "R32_M11": "Mexico",
+        "R32_M12": "England",
+        "R32_M13": "Argentina",
+        "R32_M14": "Australia",
+        "R32_M15": "Switzerland",
+        "R32_M16": "Colombia",
+        "R16_M1": "France",
+        "R16_M2": "Morocco",
+        "R16_M3": "Spain",
+        "R16_M4": "Senegal",
+        "R16_M5": "Norway",
+        "R16_M6": "England",
+        "R16_M7": "Argentina",
+        "R16_M8": "Colombia",
+        "QF_M1": "France",
+        "QF_M2": "Spain",
+        "QF_M3": "England",
+        "QF_M4": "Argentina",
+        "SF_M1": "France",
+        "SF_M2": "Argentina",
+        "FINAL": "Argentina"
+      }
     }
   ]
 }
