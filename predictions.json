@@ -1,4 +1,42 @@
 {
   "version": 1,
-  "submissions": []
+  "submissions": [
+    {
+      "name": "Shalu",
+      "submittedAt": "2026-06-28T10:12:26.904Z",
+      "picks": {
+        "R32_M1": "Paraguay",
+        "R32_M2": "Sweden",
+        "R32_M3": "South Africa",
+        "R32_M4": "Netherlands",
+        "R32_M5": "Portugal",
+        "R32_M6": "Austria",
+        "R32_M7": "Bosnia and Herzegovina",
+        "R32_M8": "Belgium",
+        "R32_M9": "Japan",
+        "R32_M10": "Ivory Coast",
+        "R32_M11": "Mexico",
+        "R32_M12": "DR Congo",
+        "R32_M13": "Cape Verde",
+        "R32_M14": "Egypt",
+        "R32_M15": "Algeria",
+        "R32_M16": "Ghana",
+        "R16_M3": "Portugal",
+        "R16_M6": "DR Congo",
+        "R16_M4": "Bosnia and Herzegovina",
+        "R16_M2": "South Africa",
+        "R16_M1": "Paraguay",
+        "R16_M5": "Ivory Coast",
+        "R16_M7": "Cape Verde",
+        "R16_M8": "Algeria",
+        "QF_M1": "Paraguay",
+        "QF_M2": "Portugal",
+        "QF_M3": "DR Congo",
+        "QF_M4": "Algeria",
+        "SF_M2": "Algeria",
+        "SF_M1": "Portugal",
+        "FINAL": "Algeria"
+      }
+    }
+  ]
 }
