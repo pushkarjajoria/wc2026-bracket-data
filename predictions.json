@@ -148,6 +148,43 @@
         "SF_M2": "England",
         "FINAL": "France"
       }
+    },
+    {
+      "name": "Chandan Nandi",
+      "submittedAt": "2026-06-28T10:56:13.486Z",
+      "picks": {
+        "R32_M13": "Argentina",
+        "R32_M1": "Germany",
+        "R32_M2": "France",
+        "R32_M3": "South Africa",
+        "R32_M4": "Netherlands",
+        "R32_M5": "Portugal",
+        "R32_M6": "Spain",
+        "R32_M7": "USA",
+        "R32_M8": "Belgium",
+        "R32_M9": "Brazil",
+        "R32_M10": "Norway",
+        "R32_M11": "Mexico",
+        "R32_M12": "England",
+        "R32_M14": "Australia",
+        "R32_M15": "Switzerland",
+        "R32_M16": "Ghana",
+        "R16_M1": "France",
+        "R16_M2": "Netherlands",
+        "R16_M3": "Spain",
+        "R16_M4": "Belgium",
+        "R16_M5": "Brazil",
+        "R16_M6": "England",
+        "R16_M7": "Argentina",
+        "R16_M8": "Ghana",
+        "QF_M2": "Spain",
+        "QF_M3": "Brazil",
+        "QF_M4": "Argentina",
+        "SF_M1": "France",
+        "QF_M1": "France",
+        "SF_M2": "Argentina",
+        "FINAL": "France"
+      }
     }
   ]
 }
